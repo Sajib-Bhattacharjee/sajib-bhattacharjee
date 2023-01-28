@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/mern__img.png" alt="JavaScript logo" title="readme file logo image" width="1000" height="460" style="border-radius: 20px"/>
+  <img src="images/mern__img.png" alt="JavaScript logo" title="readme file logo image" width="100%" height="100%" style="border-radius:20px"/>
 </p>
 
 <h2 align="center">Hi 👋, I'm Sajib Bhattacharjee </h2>
