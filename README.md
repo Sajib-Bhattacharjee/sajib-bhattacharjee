@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/mern__img.png" alt="JavaScript logo" title="JavaScript for beginners" width="1000" height="280" style="border-radius: 20px"/>
+  <img src="images/mern__img.png" alt="JavaScript logo" title="readme file logo image" width="1000" height="460" style="border-radius: 20px"/>
 </p>
 
 <h2 align="center">Hi 👋, I'm Sajib Bhattacharjee </h2>
@@ -199,7 +199,6 @@ I'm also learning the depth of PERN Stack.
 </div>
 
 <!-- Profile View Section Ends Here  -->
-  
  
 ##### ` All rights reserved by Sajib Bhattacharjee @2023 `
 
