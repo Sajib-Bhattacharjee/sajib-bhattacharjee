@@ -2,9 +2,9 @@
   <img src="images/mern__img.png" alt="JavaScript logo" title="JavaScript for beginners" width="1000" height="280" style="border-radius: 20px"/>
 </p>
 
-<h2 align="center">Hi 👋, I'm Sajib Bhattacharjee  </h2>
+<h2 align="center">Hi 👋, I'm Sajib Bhattacharjee </h2>
 
-## ` Welcome to my GitHub profile`
+## `Welcome to my GitHub profile`
 
 #### `A passionate MERN Stack Web Developer from Bangladesh. I'm also learning PERN Stack.`
 
@@ -46,6 +46,8 @@ I'm also learning the depth of PERN Stack.
 
 ##### -📄Know about my experiences [https://sajib-bhattacharjee.github.io/CV-About-Myself/](https://sajib-bhattacharjee.github.io/CV-About-Myself/)
 
+<div align="center">
+  
 <div style="text-align:center; background-color: #0F0826; color: white;" >
 
 ### `Skills:`
@@ -71,6 +73,8 @@ I'm also learning the depth of PERN Stack.
 
 </div>
 
+</div>
+  
 #### `Others Experiences:`
 
     - GitHub
@@ -82,15 +86,15 @@ I'm also learning the depth of PERN Stack.
 
 #### `Educational Info:`
 
-1. B.Sc. in Computer Science & Engineering.  
-   North Western University.  
-   khulna,Bangladesh.
-2. I.Sc.  
-   Lohagora Ideal Government College.  
-   Lohagora,Norail.
-3. SSC  
-   Charbhatpara High School.  
-   Kashinai,Goplagonj.
+    - B.Sc. in Computer Science & Engineering.  
+      North Western University.  
+      khulna,Bangladesh.
+    - I.Sc.  
+      Lohagora Ideal Government College.  
+      Lohagora,Norail.
+    - SSC  
+      Charbhatpara High School.  
+      Kashinai,Goplagonj.
 
 <!-- education section ends here  -->
 
@@ -98,10 +102,10 @@ I'm also learning the depth of PERN Stack.
 
 ### `Languages:`
 
-- 🇧🇩 Bangla : Native
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Intermediate
-- 🇮🇳 Hindi : Intermediate
-- Sanskrit : Basic
+    - 🇧🇩 Bangla : Native
+    - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Intermediate
+    - 🇮🇳 Hindi : Intermediate
+    - Sanskrit : Basic
 
 <!-- my languages section ends here  -->
 
@@ -109,11 +113,14 @@ I'm also learning the depth of PERN Stack.
 
 #### `Sports/Game/Activities/Hobby:`
 
-- 🏏Cricket, ⚽Football,🏸Badminton,♟️ Chess,🏐Volleyball.
-- 🏊‍♂️Swimming,🏃‍♂️Running,🚶‍♂️ Walking.
-- ✈️Travelling.
+    - 🏏Cricket, ⚽Football,🏸Badminton,♟️ Chess,🏐Volleyball.
+    - 🏊‍♂️Swimming,🏃‍♂️Running,🚶‍♂️ Walking.
+    - ✈️Travelling.
 
 <!-- my sports and games section ends here  -->
+
+<div align="center">
+
 
 <!-- Contact Me section Starts here  -->
 <div style="text-align: center; background-color: #0F0826;">
@@ -192,8 +199,9 @@ I'm also learning the depth of PERN Stack.
 </div>
 
 <!-- Profile View Section Ends Here  -->
-
-</br> </br>
+  
+ 
+##### ` All rights reserved by Sajib Bhattacharjee @2023 `
 
 <div style="text-align: center; background-color: #0F0826; padding: 10px">
 
@@ -203,6 +211,8 @@ I'm also learning the depth of PERN Stack.
 
 **`Dedicated for 💕"Zahan" 💕`**
 
-> > ### Thanks A Lot For Visiting...!!!
+> > > >  ### Thanks A Lot For Visiting...!!!  
+
+</div>
 
 </div>
