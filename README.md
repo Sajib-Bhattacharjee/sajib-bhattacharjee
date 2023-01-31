@@ -111,7 +111,7 @@ I'm also learning the depth of PERN Stack.
 
 <!-- my sports and game section starts here  -->
 
-#### `Sports/Game/Activities/Hobby:`
+#### `What I like to do/Hobby:`
 
     - 🏏Cricket, ⚽Football,🏸Badminton,♟️ Chess,🏐Volleyball.
     - 🏊‍♂️Swimming,🏃‍♂️Running,🚶‍♂️ Walking.
