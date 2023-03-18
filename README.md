@@ -191,7 +191,7 @@ I'm also learning the depth of PERN Stack.
 
 #### `More Details:  `
 
-<a href="http://www.github.com/arifszn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arifszn&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/Sajib-Bhattacharjee"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arifszn&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 </div>
 <!-- GitHub More Details Section Starts Here  -->
