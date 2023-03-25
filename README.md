@@ -6,6 +6,7 @@
 <!--  https://readme-typing-svg.demolab.com/demo/ -->
 
 <div align="center">
+
  
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=1000&size=40&pause=1000&color=27DD54&center=true&vCenter=true&width=600&height=100&lines=Hello+%F0%9F%91%8B%2CWelcome;I'm+Sajib+Bhattacharjee;I'm+a+Full+Stack+Web+Developer" alt="Typing SVG" /></a>
   
