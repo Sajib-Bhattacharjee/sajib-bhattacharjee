@@ -12,11 +12,15 @@
   
 </div>
 
-## `Welcome to my GitHub profile`
+<div align="center">
+  
+# ` Welcome To My GitHub Profile `
 
-#### `A passionate MERN Stack Web Developer from Bangladesh. I'm also learning PERN Stack.`
+</div>
 
-#### `I'm a student of Computer Science And Engineering.`
+## `A passionate MERN Stack Web Developer from Bangladesh. I'm also learning PERN Stack.`
+
+## `I'm a student of Computer Science And Engineering.`
 
 ```M
 "Before you can be a good programmer, you need to be a good person."
