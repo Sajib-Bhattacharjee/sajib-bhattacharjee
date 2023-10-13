@@ -22,7 +22,7 @@
 
 ## `I'm a student of Computer Science And Engineering.`
 
-```M
+```
 "Before you can be a good programmer, you need to be a good person."
  -Anisul Islam.
 "Failure is just an effect of time, which is a trivial matter to perseverance."
@@ -114,11 +114,10 @@ I'm also learning the depth of PERN Stack.
 
 ### `Languages:`
 
-    - 🇧🇩 Bangla : Native
-    - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Intermediate
+    - 🇧🇩 Bangla: Native
+    - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English: Intermediate
     - 🇮🇳 Hindi : Intermediate
-    - Sanskrit : Basic
-
+ 
 <!-- my languages section ends here  -->
 
 <!-- my sports and game section starts here  -->
@@ -215,6 +214,7 @@ I'm also learning the depth of PERN Stack.
 </div>
 
 <!-- Profile View Section Ends Here  -->
+
 
 <!-- Dedication and Footer Section Starts Here -->
 
