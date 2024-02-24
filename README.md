@@ -1,21 +1,34 @@
+<!-- Title Logo Starts Here -->
+
 <p align="center">
   <img src="images/mern__img.png" alt="JavaScript logo" title="readme file logo image" width="100%" height="100%" />
 </p>
 
+<!-- Title Logo Ends Here -->
+
 <!--  <h2 align="center">Hi 👋, I'm Sajib Bhattacharjee </h2> -->
 <!--  https://readme-typing-svg.demolab.com/demo/ -->
 
+<!-- Visualisation heading Starts Here -->
+
+
 <div align="center">
   
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=1000&size=40&pause=1000&color=27DD54&center=true&vCenter=true&width=600&height=100&lines=Hello+%F0%9F%91%8B%2CWelcome;I'm+Sajib+Bhattacharjee;I'm+a+Full+Stack+Web+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=1000&size=40&pause=1000&color=27DD54&center=true&vCenter=true&width=600&height=100&lines=Hello+%F0%9F%91%8B%2CWelcome;I'm+Sajib+Bhattacharjee;I'm+a+Full+Stack+Web+Developer" alt="Typing SVG" /></a>
   
 </div>
+
+<!-- Visualisation heading Ends Here -->
+
+
+<!-- Details heading Starts Here -->
 
 <div align="center">
   
 # ` Welcome To My GitHub Profile `
 
 </div>
+
 
 ## `A passionate MERN Stack Web Developer from Bangladesh. I'm also learning PERN Stack.`
 
@@ -27,6 +40,9 @@
 "Failure is just an effect of time, which is a trivial matter to perseverance."
  -Sajib Bhattacharjee.
 ```
+
+<!-- Details heading Ends Here -->
+
 
 <!-- About me section starts here -->
 
@@ -40,6 +56,8 @@ I'm also learning the depth of PERN Stack.
 ```
 
 <!-- About me section ends here -->
+
+<!-- More Details Section Starts Here -->
 
 #### `More Details:`
 
@@ -57,7 +75,14 @@ I'm also learning the depth of PERN Stack.
 
 ##### -📄Know about my experiences [https://sajib-bhattacharjee.github.io/CV-About-Myself/](https://sajib-bhattacharjee.github.io/CV-About-Myself/)
 
+<!-- More Details Section Ends Here -->
+
+
 <div align="center">
+
+
+<!-- Skills Section Starts Here -->
+
   
 <div style="text-align:center; background-color: #0F0826; color: white;" >
 
@@ -84,7 +109,16 @@ I'm also learning the depth of PERN Stack.
 
 </div>
 
+
+<!-- Skills Section Ends Here -->
+
+
 </div>
+
+
+<!-- Other Experiences Section Starts Here -->
+
+
   
 ### `Others Experiences:`
 
@@ -93,7 +127,10 @@ I'm also learning the depth of PERN Stack.
     - Micorsoft Word
     - Microsoft Powerpoint
 
-<!-- education section start here  -->
+
+<!-- Other Experiences Section Ends Here -->
+
+<!-- Education section start here  -->
 
 ### `Educational Info:`
 
@@ -107,9 +144,9 @@ I'm also learning the depth of PERN Stack.
       Charbhatpara High School.  
       Kashinai,Goplagonj.
 
-<!-- education section ends here  -->
+<!-- Education section ends here  -->
 
-<!-- my languages section starts here  -->
+<!-- My languages section starts here  -->
 
 ### `Languages:`
 
@@ -117,9 +154,9 @@ I'm also learning the depth of PERN Stack.
     - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English: Intermediate
     - 🇮🇳 Hindi : Intermediate
  
-<!-- my languages section ends here  -->
+<!-- My languages section ends here  -->
 
-<!-- my sports and game section starts here  -->
+<!-- My sports and game section starts here  -->
 
 ### `What I like to do/Hobby:`
 
@@ -127,7 +164,7 @@ I'm also learning the depth of PERN Stack.
     - 🏊‍♂️Swimming,🏃‍♂️Running,🚶‍♂️ Walking.
     - ✈️Travelling.
 
-<!-- my sports and games section ends here  -->
+<!-- My sports and games section ends here  -->
 
 <div align="center">
 
