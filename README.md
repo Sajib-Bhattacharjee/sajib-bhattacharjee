@@ -1,7 +1,7 @@
 <!-- Title Logo Starts Here -->
 
 <p align="center">
-  <img src="images/mern__img.png" alt="JavaScript logo" title="readme file logo image" width="100%" height="100%" />
+  <img src="images/mern__img.png" alt="MERN logo" title="readme file logo image" width="100%" height="100%" />
 </p>
 
 <!-- Title Logo Ends Here -->
@@ -29,8 +29,13 @@
 
 </div>
 
+<!--
 
-## `A passionate MERN Stack Web Developer from Bangladesh. I'm also learning PERN Stack.`
+## `A passionate MERN Stack Web Developer from Bangladesh. I'm also learning PERN Stack.` 
+
+-->  
+
+## `A passionate Full Stack Web Developer from Bangladesh.`
 
 ## `I'm a student of Computer Science And Engineering.`
 
@@ -48,12 +53,27 @@
 
 #### 🚀 `About Me`
 
+<!-- 
+
 ```
 I'm a MERN Stack Developer.
 I am gaining a more profound knowledge of full-stack web development
 and doing some big projects in modern web development.
 I'm also learning the depth of PERN Stack.
+``` 
+--> 
+
 ```
+💻 Full Stack Developer specializing in MERN Stack
+🌐 I build dynamic, scalable web applications
+🔧 Proficient in React, Node.js, Express, MongoDB
+🚀 Passionate about coding, problem-solving, and learning new technologies
+📚 Always striving to grow and improve as a developer
+💡 Open to collaboration on exciting projects!
+
+```
+
+
 
 <!-- About me section ends here -->
 
@@ -62,8 +82,8 @@ I'm also learning the depth of PERN Stack.
 #### `More Details:`
 
 ##### - 🔭I’m currently working on [Student of Computer Science and Engineering.](https://nwu.edu.bd/)
-
-##### - 🌱I’m currently learning detpth of **`Pern Stack` React.js, JavaScript, TypeScript,Express.js, Web-Authentication And other backend Technology.**
+<!--
+##### - 🌱I’m currently learning detpth of **`Pern Stack` React.js, JavaScript, TypeScript,Express.js, Web-Authentication And other backend Technology.** -->
 
 ##### -🤝I’m looking for help with **Helpless people.**
 
@@ -73,7 +93,7 @@ I'm also learning the depth of PERN Stack.
 
 ##### -📫For any Query contact me **sajibbhattacharjee2000@gmail.com**
 
-##### -📄Know about my experiences [https://sajib-bhattacharjee.github.io/CV-About-Myself/](https://sajib-bhattacharjee.github.io/CV-About-Myself/)
+##### -📄Know about my experiences [https://www.linkedin.com/in/sajib-bhattacharjee-42682a178/](https://www.linkedin.com/in/sajib-bhattacharjee-42682a178/)
 
 <!-- More Details Section Ends Here -->
 
@@ -260,7 +280,7 @@ I'm also learning the depth of PERN Stack.
 ---
 
  
-#### ` All rights reserved by Sajib Bhattacharjee @2023 `
+#### ` All rights reserved by Sajib Bhattacharjee @2024 `
 
 <div style="text-align: center; background-color: #0F0826; padding: 10px">
 
