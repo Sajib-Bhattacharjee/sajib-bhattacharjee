@@ -280,22 +280,31 @@ I'm also learning the depth of PERN Stack.
 ---
 
  
-#### ` All rights reserved by Sajib Bhattacharjee @2024 `
-
-<div style="text-align: center; background-color: #0F0826; padding: 10px">
-
-### `Created By-->`
-
-**&copy;`-Sajib Bhattacharjee`**
-
-**`Dedicated for My Dear Respectable Sir! 💕"Anisul Islam"💕`**
-
-> > > >  ### Thanks A Lot For Visiting...!!!  
-
+ 
 </div>
   
 </div>   
 
+
+<div align="center"; background-color: #0F0826;>
+
+##### 🛡️ `All rights reserved by Sajib Bhattacharjee @2025`
+
+### 👨‍💻 `Created with ❤️ by -->`
+
+✨ **Sajib Bhattacharjee** ✨
+
+**💖 Dedicated to "Sir! Anisul Islam" 💖**
+
+> > > > ### 🙏 Thanks a Lot for Visiting
+
+🌐 [**Portfolio & Projects**](https://github.com/Sajib-Bhattacharjee)  
+💼 [**LinkedIn**](https://www.linkedin.com/in/sajib-bhattacharjee-42682a178/)  
+📧 [**Contact Me**](mailto:sajibbhattacjarjee2000@gmail.com)
+
+</div>
+
+   
 
 <!-- Dedication and Footer Section Ends Here -->
 
