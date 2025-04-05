@@ -1,7 +1,7 @@
 <!-- Title Logo Starts Here -->
 
 <p align="center">
-  <img src="images/mern__img.png" alt="MERN logo" title="readme file logo image" width="100%" height="100%" />
+  <img src="images/cover.png" alt="MERN logo" title="readme file logo image" width="100%" height="100%" />
 </p>
 
 <!-- Title Logo Ends Here -->
