@@ -20,7 +20,7 @@
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://sajib-bhattacharjee.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://sajibbhattacharjee.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:sajibbhattacharjee2000@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/sajib-bhattacharjee-42682a178/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <!-- Remove or update Twitter if not used -->
@@ -221,3 +221,4 @@ I'm Sajib Bhattacharjee, a passionate Front-End Web Developer with a keen eye fo
 <p align="center">
   <a href="#top">🔝 Back to top</a>
 </p>
+
