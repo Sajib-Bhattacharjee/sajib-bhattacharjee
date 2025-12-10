@@ -3,7 +3,7 @@
 <!-- Hero Section -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving hand" />
-  Hi, I'm <span style="font-size:2.5rem;">Sajib Bhattacharjee</span>
+  Hi, I'm <span style="font-size:2.5rem;">Sajib Bhattacharjee 👨‍💻</span> 
 </h1>
 <h3 align="center">🌐 Front-End Web Developer | UI/UX Enthusiast | Open Source Advocate</h3>
 <p align="center"><b>🚀 Crafting responsive, scalable, and delightful UIs with passion and precision</b></p>
@@ -94,6 +94,12 @@ I'm Sajib Bhattacharjee, a passionate Front-End Web Developer with a keen eye fo
 <details open>
   <summary>See my top projects</summary>
 
+- **[Awesome Portfolio](https://github.com/Sajib-Bhattacharjee/sbc-funto-website-09)**  
+  🎨 Funto - Modern NFT Marketplace built with Next.js 14 & React. Discover, buy, sell & trade digital assets! 💎
+  🚀 Next.js, TypeScript,Redux, Framer Motion  
+  🔗 [Live Site](https://sbcfunto.netlify.app/)  
+  <img src="images/sbcfunto.jpeg" alt="Portfolio Screenshot" width="400"/>
+  
 - **[Awesome Portfolio](https://github.com/Sajib-Bhattacharjee/sajib-bhattacharjee-portfolio)**  
   📝 A modern, responsive developer portfolio template.  
   🚀 React, Redux, Framer Motion  
@@ -221,5 +227,6 @@ I'm Sajib Bhattacharjee, a passionate Front-End Web Developer with a keen eye fo
 <p align="center">
   <a href="#top">🔝 Back to top</a>
 </p>
+
 
 
