@@ -94,11 +94,18 @@ I'm Sajib Bhattacharjee, a passionate Front-End Web Developer with a keen eye fo
 <details open>
   <summary>See my top projects</summary>
 
-- **[Awesome Portfolio](https://github.com/Sajib-Bhattacharjee/sbc-funto-website-09)**  
-  🎨 Funto - Modern NFT Marketplace built with Next.js 14 & React. Discover, buy, sell & trade digital assets! 💎
-  🚀 Next.js, TypeScript,Redux, Framer Motion  
+
+  - **[Web Agency](https://github.com/Sajib-Bhattacharjee/arulaxweb)**  
+  🎨 AruLaxWeb - AI-Powered Web Development Agency Website💎     
+  🚀 React.js, TypeScript, Redux, Framer Motion  
+  🔗 [Live Site](https://arulaxweb.netlify.app/)  
+  <img src="images/arulaxweb.jpeg" alt="arulaxweb" width="400"/>
+
+- **[NFT-Marketplace](https://github.com/Sajib-Bhattacharjee/sbc-funto-website-09)**  
+  🎨 Funto - Modern NFT Marketplace built with Next.js 14 & React. Discover, buy, sell & trade digital assets!💎     
+  🚀 Next.js, TypeScript, Redux, Framer Motion  
   🔗 [Live Site](https://sbcfunto.netlify.app/)  
-  <img src="images/sbcfunto.jpeg" alt="Portfolio Screenshot" width="400"/>
+  <img src="images/sbcfunto.jpeg" alt="nft-platform" width="400"/>
   
 - **[Awesome Portfolio](https://github.com/Sajib-Bhattacharjee/sajib-bhattacharjee-portfolio)**  
   📝 A modern, responsive developer portfolio template.  
@@ -227,6 +234,7 @@ I'm Sajib Bhattacharjee, a passionate Front-End Web Developer with a keen eye fo
 <p align="center">
   <a href="#top">🔝 Back to top</a>
 </p>
+
 
 
 
