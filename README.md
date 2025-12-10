@@ -15,7 +15,7 @@
 
 <!-- Profile Image -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/86997775?v=4" alt="Sajib Bhattacharjee" width="150" style="border-radius:50%;" />
+  <img src="images/about-img.png" alt="Sajib Bhattacharjee" width="150" style="border-radius:50%;" />
 </p>
 
 <!-- Social Badges -->
@@ -100,12 +100,6 @@ I'm Sajib Bhattacharjee, a passionate Front-End Web Developer with a keen eye fo
   🚀 React.js, TypeScript, Redux, Framer Motion  
   🔗 [Live Site](https://arulaxweb.netlify.app/)  
   <img src="images/arulaxweb.jpeg" alt="arulaxweb" width="400"/>
-
-- **[NFT-Marketplace](https://github.com/Sajib-Bhattacharjee/sbc-funto-website-09)**  
-  🎨 Funto - Modern NFT Marketplace built with Next.js 14 & React. Discover, buy, sell & trade digital assets!💎     
-  🚀 Next.js, TypeScript, Redux, Framer Motion  
-  🔗 [Live Site](https://sbcfunto.netlify.app/)  
-  <img src="images/sbcfunto.jpeg" alt="nft-platform" width="400"/>
   
 - **[Awesome Portfolio](https://github.com/Sajib-Bhattacharjee/sajib-bhattacharjee-portfolio)**  
   📝 A modern, responsive developer portfolio template.  
@@ -125,11 +119,23 @@ I'm Sajib Bhattacharjee, a passionate Front-End Web Developer with a keen eye fo
   🔗 [Live Site](https://sbcblog.netlify.app/)  
   <img src="images/blog.png" alt="Blog Screenshot" width="400"/>
 
+- **[NFT-Marketplace](https://github.com/Sajib-Bhattacharjee/sbc-funto-website-09)**  
+  🎨 Funto - Modern NFT Marketplace built with Next.js 14 & React. Discover, buy, sell & trade digital assets!💎     
+  🚀 Next.js, TypeScript, Redux, Framer Motion  
+  🔗 [Live Site](https://sbcfunto.netlify.app/)  
+  <img src="images/sbcfunto.jpeg" alt="nft-platform" width="400"/>
+
 - **[E-Learning Platform](https://github.com/Sajib-Bhattacharjee/e-learning-platform)**  
   📝 A responsive Education Website.  
-  🚀 Bootstrap, Javascript  
+  🚀 Bootstrap, JavaScript  
   🔗 [Live Site](https://developerzone2025.netlify.app/)  
   <img src="images/elearning.png" alt="E-Learning Screenshot" width="400"/>
+
+  - **[SeoBiz-Digital Experiences](https://github.com/Sajib-Bhattacharjee/sbc-seobiz-01)**  
+  📝 Complete Web Experience with SeoBiz.  
+  🚀 Bootstrap, SASS, JavaScript, Animation 
+  🔗 [Live Site](https://sbcseobiz.netlify.app/)  
+  <img src="images/seobiz.jpeg" alt="SeoBiz Website" width="400"/>
 
 </details>
 
@@ -234,6 +240,7 @@ I'm Sajib Bhattacharjee, a passionate Front-End Web Developer with a keen eye fo
 <p align="center">
   <a href="#top">🔝 Back to top</a>
 </p>
+
 
 
 
