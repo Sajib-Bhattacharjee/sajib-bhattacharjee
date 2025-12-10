@@ -15,7 +15,7 @@
 
 <!-- Profile Image -->
 <p align="center">
-  <img src="images/about-img.png" alt="Sajib Bhattacharjee" width="150" style="border-radius:50%;" />
+  <img src="images/prifileImgSbc.png" alt="Sajib Bhattacharjee" width="100%" style="border-radius:50%;" />
 </p>
 
 <!-- Social Badges -->
@@ -240,6 +240,7 @@ I'm Sajib Bhattacharjee, a passionate Front-End Web Developer with a keen eye fo
 <p align="center">
   <a href="#top">🔝 Back to top</a>
 </p>
+
 
 
 
