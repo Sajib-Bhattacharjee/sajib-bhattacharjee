@@ -5,12 +5,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving hand" />
   Hi, I'm <span style="font-size:2.5rem;">Sajib Bhattacharjee 👨‍💻</span> 
 </h1>
-<h3 align="center">🌐 Front-End Web Developer | UI/UX Enthusiast | Open Source Advocate</h3>
+<h3 align="center">🌐 Full Stack Web Developer | UI/UX Enthusiast | Open Source Advocate</h3>
 <p align="center"><b>🚀 Crafting responsive, scalable, and delightful UIs with passion and precision</b></p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Front-End+Web+Developer;React+%7C+Redux.js+%7C+TypeScript;UI%2FUX+Lover+%F0%9F%8E%A8;Open+Source+Contributor+%F0%9F%92%AA;Performance+%26+Accessibility+Advocate;Always+Learning+New+Tech!;Let%27s+Build+Something+Awesome+Together!" alt="Typing Animation" />
+ 
 </p>
 
 <!-- Profile Image -->
