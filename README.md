@@ -215,16 +215,13 @@ I specialize in creating responsive, user-centric interfaces while ensuring effi
 <div align="center">
 
 ### Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajib-bhattacharjee&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajib-bhattacharjee&layout=compact&theme=radical&cache_seconds=1800)
 
 ### GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sajib-bhattacharjee&show_icons=true&count_private=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sajib-bhattacharjee&show_icons=true&count_private=true&theme=radical&cache_seconds=1800)
 
 ### GitHub Metrics
-
-![GitHub Metrics](https://metrics.lecoq.io/sajib-bhattacharjee?template=classic)
+![GitHub Metrics](https://metrics.lecoq.io/sajib-bhattacharjee?template=classic&config.timezone=Asia/Dhaka)
 
 ### GitHub Streak Stats
 
